@@ -1,0 +1,163 @@
+
+#name {
+	position: fixed;
+	text-align: center;
+	/*font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 300;*/
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight:300;
+	font-size: 100px;
+	color: rgb(256,256,256);
+/*	background: rgba(0,0,0,.5); */
+	height:110px;
+	width: 900px;
+	top: -50%;
+	bottom:0;
+	left:0;
+	right:0;
+	margin:auto;
+	padding:0;
+	z-index:-1;
+}
+
+.blurb {
+	top:340px;
+	bottom:0;
+	left:0;
+	right:0;
+	position:fixed;
+	font-weight:300;
+	text-align:center;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 20px;
+	color:rgb(256,256,256);
+	z-index:-1;
+}
+
+html { 
+  background-color: rgb(40,146,211);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+html, body {
+  height: 100%;
+  margin:0;
+  max-width:100%;
+}
+
+.arrow {
+	text-align:center;
+	font-family: "Source Sans Pro", sans-serif;
+	position:absolute;
+	font-size: 100px;
+	color:rgb(52,52,52);
+	top:-27%;
+	left:0;
+	right:0;
+	margin:auto;
+	padding:0;
+	z-index:-1;
+}
+
+
+/* MAIN TEXT SECTION */
+
+.wrapper {
+	font-weight:300;
+	display:block;
+	position:relative;
+	text-align:center;
+	width: 100%;
+	height:500px;
+	background:rgb(52,52,52);
+	font-size:20px;
+	font-family: "Source Sans Pro", sans-serif;
+
+}
+
+
+.wrapper a {
+	text-align:center; 
+	color:rgb(40,146,211);
+	text-decoration: none;
+	transition-property:color;
+	transition-duration: 0.2s;
+	-webkit-transition-duration: 0.2s;
+}
+
+.wrapper a:hover {
+	color: rgb(256,256,256);
+}
+
+#aboutMe {
+	color: rgb(256,256,256);
+	top:89.5%;
+}
+
+
+#dmz {
+	background: rgb(40,146,211);
+	top:88.2%;
+	height:20%;
+}
+
+#projects {
+	top:84%;
+	color:rgb(256,256,256);
+	z-index:1;
+	height:1400px;
+}
+.head {
+	font-family:'Source Sans pro', sans-serif;
+	width:50%;
+	margin:0 auto;
+	z-index:1;
+	height:auto;
+}
+.head h1 {
+	font-size:40px;
+	font-weight: 300;
+}
+
+.content-right {
+	width:40%;
+	position:relative;
+	float:right;
+	margin:0 10% 0 0;
+}
+
+.content-left {
+	width:40%;
+	height:auto;
+	position:relative;
+	float:left;
+	margin:0 0 0 1%;
+}
+
+#aboutMe .content-right {
+	width: 300px;
+	height: 300px;
+	background-image: url(../graphics/portrait.jpeg);
+	-moz-border-radius:150px;
+  	-webkit-border-radius: 150px;
+  	border-radius: 150px;
+}
+
+#aboutMe .content-left {
+	text-align:left;
+}
+
+#projects .content-right{
+
+}
+
+#dmx {
+	background: rgb(40,146,211);
+	top:88.2%;
+	height:1%;
+	margin:-20px -15px;
+
+}
