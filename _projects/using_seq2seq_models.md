@@ -1,5 +1,5 @@
 ---
-title: "Using Seq2Seq Models to Assemble Reasoning Modules for VQA (Fall 2020)"
+title: "Using Seq2Seq Models to Assemble Reasoning Modules for VQA"
 collection: projects
 permalink: /project/using_seq2seq_models
 ---

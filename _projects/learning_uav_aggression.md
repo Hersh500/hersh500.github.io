@@ -1,5 +1,5 @@
 ---
-title: "Learning UAV Flight Aggression under Map Uncertainty (Fall 2020)"
+title: "Learning UAV Flight Aggression under Map Uncertainty"
 collection: projects
 permalink: /project/learning_uav_aggression
 ---

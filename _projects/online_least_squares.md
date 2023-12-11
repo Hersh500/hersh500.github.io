@@ -1,5 +1,5 @@
 ---
-title: "Online Least Squares for Convex MPC of Biped Robots (Fall 2021)"
+title: "Online Least Squares for Convex MPC of Biped Robots"
 collection: projects
 permalink: /project/convex_mpc
 ---
