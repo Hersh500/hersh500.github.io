@@ -5,5 +5,5 @@ permalink: /publication/occam
 excerpt: ''
 date: 2024-02-02
 venue: "2024 Conference on Robot Learning (CoRL)"
-link: "https://arxiv.org/abs/2406.17620"
+link: "https://hersh500.github.io/occam"
 ---
