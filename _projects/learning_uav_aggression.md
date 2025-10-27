@@ -2,6 +2,7 @@
 title: "Learning UAV Flight Aggression under Map Uncertainty"
 collection: projects
 permalink: /project/learning_uav_aggression
+order: 4
 ---
 {% include base_path %}
 

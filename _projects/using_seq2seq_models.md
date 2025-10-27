@@ -2,6 +2,7 @@
 title: "Using Seq2Seq Models to Assemble Reasoning Modules for VQA"
 collection: projects
 permalink: /project/using_seq2seq_models
+order: 3
 ---
 {% include base_path %}
 

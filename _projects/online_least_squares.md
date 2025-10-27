@@ -2,6 +2,7 @@
 title: "Online Least Squares for Convex MPC of Biped Robots"
 collection: projects
 permalink: /project/convex_mpc
+order: 2
 ---
 {% include base_path %}
 

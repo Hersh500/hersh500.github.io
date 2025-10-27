@@ -2,6 +2,7 @@
 title: "Sim2Real Quadrotor RL Policy with Accelerated RotorPy"
 collection: projects
 permalink: /project/rotorpy_rl
+order: 1
 ---
 {% include base_path %}
 
