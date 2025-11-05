@@ -5,5 +5,5 @@ permalink: /publication/taco
 excerpt: ''
 date: 2025-09-15
 venue: "In Submission"
-link: "https://drive.google.com/file/d/12A1wQHf09_PFNq8WHvCGY-lR4oWCnFFP/view"
+link: "https://arxiv.org/abs/2511.02060"
 ---
